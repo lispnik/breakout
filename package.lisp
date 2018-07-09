@@ -1,4 +1,3 @@
-;;;; package.lisp
-
 (defpackage #:breakout
-  (:use #:cl))
+  (:use #:common-lisp
+	#:alexandria))

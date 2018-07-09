@@ -1,0 +1,9 @@
+;; -*-lisp-*-
+((:name :brick
+	:rect (0 0 90 48))
+ (:name :broken
+	:rect (90 0 90 40))
+ (:name :paddle
+	:rect (0 40 128 25))
+ (:name :ball
+	:rect (0 65 43 43)))
